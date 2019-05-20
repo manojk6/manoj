@@ -1,0 +1,205 @@
+[
+  {
+   "Legal Entity Identifier": "335800NSYTIQLQKUYP62",
+   "Exchange Name": "BSE\nNSE",
+   "Trades As": "526299\nMPHASIS",
+   "Ticker Code": "MPHL1",
+   "Industry": "IT Services, IT Consulting"
+ },
+ {
+   "Legal Entity Identifier": "2549000HSJN3N1QHNC92",
+   "Exchange Name": "NYSE Euronext(NYX), Paris",
+   "Trades As": "MPHWYD",
+   "Ticker Code": "MPHWYD1",
+   "Industry": "IT Services, IT Consulting"
+ },
+ {
+   "Legal Entity Identifier": "254900ZZ29JBQTBLXR27",
+   "Exchange Name": "London Stock Exchange",
+   "Trades As": "MPHUK",
+   "Ticker Code": "MPHUK1",
+   "Industry": "IT Services, IT Consulting"
+ },
+ {
+   "Legal Entity Identifier": "254900UZN17EZFMYYZ97",
+   "Exchange Name": "Australia Securities Exchange",
+   "Trades As": "MPHAUS",
+   "Ticker Code": "MPHAUS1",
+   "Industry": "IT Services, IT Consulting"
+ },
+ {
+   "Legal Entity Identifier": "254900A5FVG1IS3CJ839",
+   "Exchange Name": "NYSE Euronext(NYX), Paris",
+   "Trades As": "MPHPAR",
+   "Ticker Code": "MPHPAR1",
+   "Industry": "IT Services, IT Consulting"
+ },
+ {
+   "Legal Entity Identifier": "21380087VX2V5QO23G83",
+   "Exchange Name": "London Stock Exchange",
+   "Trades As": "AIGUK",
+   "Ticker Code": "AIGUK1",
+   "Industry": "IT Services, IT Consulting"
+ },
+ {
+   "Legal Entity Identifier": "ODVCVCQG2BP6VHV36M30",
+   "Exchange Name": "NYSE",
+   "Trades As": "AIG",
+   "Ticker Code": "AIG1",
+   "Industry": "Financial Services, Insurance"
+ },
+ {
+   "Legal Entity Identifier": "549300PF2KTM8A12FH91",
+   "Exchange Name": "London Stock Exchange",
+   "Trades As": "CSUK",
+   "Ticker Code": "CSUK1",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "549300P8AUJ4X9NXQI23",
+   "Exchange Name": "Euronext Dublin",
+   "Trades As": "CSIRE",
+   "Ticker Code": "CSIRE1",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "549300N3L67TREKCRK89",
+   "Exchange Name": "Euronext Dublin",
+   "Trades As": "CSIRES",
+   "Ticker Code": "CSIRES1",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "549300T4F2YCHIJP7680",
+   "Exchange Name": "NYSE",
+   "Trades As": "CSNY",
+   "Ticker Code": "CSNY1",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "549300ZP8XN77GK5BS04",
+   "Exchange Name": "NYSE",
+   "Trades As": "CSNYS",
+   "Ticker Code": "CSNYS1",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "54930060P82LK4CCQX34",
+   "Exchange Name": "NYSE",
+   "Trades As": "CSPB",
+   "Ticker Code": "CSPB1",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "549300VSGCJ7E698NM85",
+   "Exchange Name": "NYSE",
+   "Trades As": "CSCOR",
+   "Ticker Code": "CSCOR1",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "549300INFJ8TYNZ1G568",
+   "Exchange Name": "NYSE",
+   "Trades As": "CSBAN",
+   "Ticker Code": "CSBAN1",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "5493001HHW6N4FZW3659",
+   "Exchange Name": "NYSE",
+   "Trades As": "CSNYMM",
+   "Ticker Code": "CSNYMM1",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "54930009KC7P1XTORR50",
+   "Exchange Name": "Canadian Securities Exchange",
+   "Trades As": "TRCAN",
+   "Ticker Code": "TRCAN1",
+   "Industry": "Financial Services, Capital Markets"
+ },
+ {
+   "Legal Entity Identifier": "549300561UZND4C7B569",
+   "Exchange Name": "Canadian Securities Exchange",
+   "Trades As": "TRCANS",
+   "Ticker Code": "TRCANS1",
+   "Industry": "Financial Services, Capital Markets"
+ },
+ {
+   "Legal Entity Identifier": "549300773DWEC3ZDVO65",
+   "Exchange Name": "LuxSE",
+   "Trades As": "TRLUX",
+   "Ticker Code": "TRLUX1",
+   "Industry": "Financial Services, Capital Markets"
+ },
+ {
+   "Legal Entity Identifier": "254900EUG70MSVYK2707",
+   "Exchange Name": "Singapore Exchange Limited",
+   "Trades As": "TRSING",
+   "Ticker Code": "TRSING1",
+   "Industry": "Financial Services, Capital Markets"
+ },
+ {
+   "Legal Entity Identifier": "DWDT0ZBQBW3LR2O19716",
+   "Exchange Name": "NYSE",
+   "Trades As": "TRNY",
+   "Ticker Code": "TRNY1",
+   "Industry": "Financial Services, Capital Markets"
+ },
+ {
+   "Legal Entity Identifier": "2549002UN38OHXV31485",
+   "Exchange Name": "Copenhagen Stock Exchange",
+   "Trades As": "LEHDE",
+   "Ticker Code": "LEHDE1",
+   "Industry": "Financial Services"
+ },
+ {
+   "Legal Entity Identifier": "213800J8THSZ7ZU8YW73",
+   "Exchange Name": "Botswana Stock Exchange",
+   "Trades As": "BARBOT",
+   "Ticker Code": "BARBOT1",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "549300NGP68ESFZN6010",
+   "Exchange Name": "Botswana Stock Exchange",
+   "Trades As": "BARBOT",
+   "Ticker Code": "BARBOT12",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "213800UW4IOTKTG3R733",
+   "Exchange Name": "Egyptian Exchange",
+   "Trades As": "BAREGY",
+   "Ticker Code": "BAREGY4",
+   "Industry": "Banking"
+ },
+ {
+  "Legal Entity Identifier": "G5GSEF7VJP5I7OUK5573",
+  "Exchange Name": "London Stock Exchange",
+  "Trades As": "BARLON",
+  "Ticker Code": "BARLON5",
+  "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "549300TZC0521ZIVTQ82",
+   "Exchange Name": "Ghana Stock Exchange",
+   "Trades As": "BARGHA",
+   "Ticker Code": "BARGHA6",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "549300X676P2CALWRI73",
+   "Exchange Name": "Mauritius Stock Exchange",
+   "Trades As": "BARMAU",
+   "Ticker Code": "BARMAU8",
+   "Industry": "Banking"
+ },
+ {
+   "Legal Entity Identifier": "549300TMH5W90U8OTT58",
+   "Exchange Name": "Mexico Stock Exchange",
+   "Trades As": "BARMEX",
+   "Ticker Code": "BARMEX5",
+   "Industry": "Banking"
+ }
+]
